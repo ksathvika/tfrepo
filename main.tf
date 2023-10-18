@@ -1,7 +1,7 @@
 
 variable "var1" {
     type = list
-    default = ["myresgrp1" , "myresgrp2" , "rgrp3"]
+    default = ["testresgrp1" , "testresgrp2" , "rgrp3"]
 }
 
 
